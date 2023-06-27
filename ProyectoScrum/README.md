@@ -1,21 +1,21 @@
 # Proyecto-Integrador-Tercer-Semestre-Grupo-Omega
 
 
-Grupo Omega 
+Grupo - OMEGA -
 ---------------------------
-Julieta Gutierrez
+Gutierrez, Julieta
 ---------------------------
-Nicolas Abete
+Abete, Nicolas
 ---------------------------
-María Belén Rabel Zárate
+Rabel Zárate, María Belén
 ---------------------------
-Leonel Real
+Real, Leonel
 ---------------------------
-Gaston Emiliano Riveros
+Riveros, Gaston Emiliano
 ---------------------------
-Gustavo De Llac
+De Llac, Gustavo
 ---------------------------
-Dario Lucas Tamini
+Tamini, Dario Lucas
 ---------------------------
 
 Creacion de video
