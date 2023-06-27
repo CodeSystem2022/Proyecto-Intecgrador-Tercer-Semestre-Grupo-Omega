@@ -1,4 +1,4 @@
-# Proyecto-Intecgrador-Tercer-Semestre-Grupo-Omega
+# Proyecto-Integrador-Tercer-Semestre-Grupo-Omega
 
 
 Grupo Omega 
