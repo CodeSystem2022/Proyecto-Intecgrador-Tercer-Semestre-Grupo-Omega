@@ -1,11 +1,5 @@
 Proyecto venta de celulares
 
-Aca mostramos el drive del video
-
-https://drive.google.com/file/d/11z2OyAKI5nrTi7t_Bg2-Wr5WeQ7icMN6/view?usp=drive_link
-
-Copiamos el codigo 
-
 # Llamamos al procedimiento de menu principal, desde nuestro proceso principal.
 # 	menuPrincipal();
 
