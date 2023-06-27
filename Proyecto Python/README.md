@@ -4,19 +4,19 @@ Aca mostramos el drive del video
 
 https://drive.google.com/file/d/11z2OyAKI5nrTi7t_Bg2-Wr5WeQ7icMN6/view?usp=drive_link
 
-Grupo Omega
+Grupo - OMEGA -
 ----------------------------
-Julieta Gutierrez
+Gutierrez, Julieta
 ----------------------------
-Nicolas Abete
+Abete, Nicolas
 ----------------------------
-María Belén Rabel Zárate
+Rabel Zárate, María Belén
 ----------------------------
-Leonel Real
+Real, Leonel
 ----------------------------
-Gaston Emiliano Riveros
+Riveros, Gaston Emiliano
 ----------------------------
-Gustavo De Llac
+De Llac, Gustavo
 ----------------------------
-Dario Lucas Tamini
+Tamini, Dario Lucas
 ----------------------------
