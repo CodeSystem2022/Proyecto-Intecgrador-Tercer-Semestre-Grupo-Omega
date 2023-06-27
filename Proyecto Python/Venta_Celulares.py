@@ -1,7 +1,7 @@
 Proyecto venta de celulares
 
 # Vamos a llamar al procedimiento de menu principal, desde nuestro proceso principal.
-# 	menuPrincipal();
+# menuPrincipal();
 
 def menuPrincipal():
     opcion = 0
