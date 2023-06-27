@@ -2,7 +2,7 @@
 
 
 Grupo Omega 
-
+---------------------------
 Julieta Gutierrez
 ---------------------------
 Nicolas Abete
